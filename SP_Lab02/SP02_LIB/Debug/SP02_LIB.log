@@ -1,0 +1,38 @@
+﻿Сборка начата 29.09.2023 18:57:41.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OS12_LIB.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+     1>InitializeBuildStatus:
+         Создание "Debug\SP02_LIB.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"C:\Users\User\Desktop\СП\SP_Lab02\Debug\SP02_LIB.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SP02_LIB.cpp
+         SP02_LIB.cpp
+     1>C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(72): warning C4715: SP02::Multiplier::Mul: значение возвращается не при всех путях выполнения
+     1>C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(91): warning C4715: SP02::Multiplier::Div: значение возвращается не при всех путях выполнения
+     1>C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(40): warning C4715: SP02::Adder::Add: значение возвращается не при всех путях выполнения
+     1>C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(56): warning C4715: SP02::Adder::Sub: значение возвращается не при всех путях выполнения
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\User\Desktop\СП\SP_Lab02\Debug\SP02_LIB.lib" /NOLOGO /MACHINE:X86 Debug\SP02_LIB.obj
+         SP02_LIB.vcxproj -> C:\Users\User\Desktop\СП\SP_Lab02\Debug\SP02_LIB.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SP02_LIB.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SP02_LIB.tlog\SP02_LIB.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (OS12_LIB.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(72): warning C4715: SP02::Multiplier::Mul: значение возвращается не при всех путях выполнения
+         C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(91): warning C4715: SP02::Multiplier::Div: значение возвращается не при всех путях выполнения
+         C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(40): warning C4715: SP02::Adder::Add: значение возвращается не при всех путях выполнения
+         C:\Users\User\Desktop\СП\SP_Lab02\SP02_LIB\SP02_LIB.cpp(56): warning C4715: SP02::Adder::Sub: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:01.20
