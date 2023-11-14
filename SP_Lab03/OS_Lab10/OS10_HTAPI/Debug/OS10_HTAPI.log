@@ -1,0 +1,29 @@
+﻿Сборка начата 19.10.2023 16:35:40.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Desktop\СП\SP_Lab03\OS_Lab10\OS10_HTAPI\OS10_HTAPI.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\OS10_HTAPI.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\OS10_HTAPI.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\OS10_HTAPI.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yc"pch.h" /Fp"Debug\OS10_HTAPI.pch" /Fo"Debug\\" /Fd"C:\Users\User\Desktop\СП\SP_Lab03\OS_Lab10\Debug\OS10_HTAPI.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yu"pch.h" /Fp"Debug\OS10_HTAPI.pch" /Fo"Debug\\" /Fd"C:\Users\User\Desktop\СП\SP_Lab03\OS_Lab10\Debug\OS10_HTAPI.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Element.cpp HT.cpp
+         Element.cpp
+         HT.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\User\Desktop\СП\SP_Lab03\OS_Lab10\Debug\OS10_HTAPI.lib" /NOLOGO /MACHINE:X86 Debug\Element.obj
+         Debug\HT.obj
+         Debug\pch.obj
+         OS10_HTAPI.vcxproj -> C:\Users\User\Desktop\СП\SP_Lab03\OS_Lab10\Debug\OS10_HTAPI.lib
+       FinalizeBuildStatus:
+         Файл "Debug\OS10_HTAPI.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OS10_HTAPI.tlog\OS10_HTAPI.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\СП\SP_Lab03\OS_Lab10\OS10_HTAPI\OS10_HTAPI.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.37
