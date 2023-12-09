@@ -1,0 +1,27 @@
+﻿Сборка начата 23.11.2023 10:45:52.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\OS13_HTCOM_LIB\OS13_HTCOM_LIB.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\".
+         Создание каталога "Debug\OS13_HTCOM_LIB.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\OS13_HTCOM_LIB.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\OS13_HTCOM_LIB.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yc"pch.h" /Fp"Debug\OS13_HTCOM_LIB.pch" /Fo"Debug\\" /Fd"C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM_LIB.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yu"pch.h" /Fp"Debug\OS13_HTCOM_LIB.pch" /Fo"Debug\\" /Fd"C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM_LIB.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt OS13_HTCOM_LIB.cpp
+         OS13_HTCOM_LIB.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM_LIB.lib" /NOLOGO /MACHINE:X86 Debug\OS13_HTCOM_LIB.obj
+         Debug\pch.obj
+         OS13_HTCOM_LIB.vcxproj -> C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM_LIB.lib
+       FinalizeBuildStatus:
+         Файл "Debug\OS13_HTCOM_LIB.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OS13_HTCOM_LIB.tlog\OS13_HTCOM_LIB.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\OS13_HTCOM_LIB\OS13_HTCOM_LIB.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.60

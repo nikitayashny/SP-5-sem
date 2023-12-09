@@ -1,0 +1,27 @@
+﻿Сборка начата 23.11.2023 10:50:10.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\OS_0404\OS_0404.vcxproj" в узле 3 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\OS_0404.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\OS_0404.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\OS_0404.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS_0404.exe" /INCREMENTAL /ILK:"Debug\OS_0404.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS_0404.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS_0404.lib" /MACHINE:X86 Debug\main.obj
+         "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM.lib"
+         "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM_LIB.lib"
+     1>LINK : fatal error LNK1104: не удается открыть файл "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM.lib"
+     1>Сборка проекта "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\OS_0404\OS_0404.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\OS_0404\OS_0404.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "C:\Users\User\Desktop\СП\SP_Lab05\lab4-ht-com-dll\Debug\OS13_HTCOM.lib"
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:01.57

@@ -1,0 +1,26 @@
+﻿Сборка начата 02.12.2023 14:02:42.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Desktop\СП\SP_Lab05\lab10\OS10_HTAPI\OS10_HTAPI.vcxproj" в узле 3 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\OS10_HTAPI.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\OS10_HTAPI.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"C:\Users\User\Desktop\СП\SP_Lab05\lab10\x64\Debug\OS10_HTAPI.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Element.cpp HT.cpp pch.cpp
+         Element.cpp
+         HT.cpp
+         pch.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\Lib.exe /OUT:"C:\Users\User\Desktop\СП\SP_Lab05\lab10\x64\Debug\OS10_HTAPI.lib" /NOLOGO /MACHINE:X64 x64\Debug\Element.obj
+         x64\Debug\HT.obj
+         x64\Debug\pch.obj
+         OS10_HTAPI.vcxproj -> C:\Users\User\Desktop\СП\SP_Lab05\lab10\x64\Debug\OS10_HTAPI.lib
+       FinalizeBuildStatus:
+         Файл "x64\Debug\OS10_HTAPI.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\OS10_HTAPI.tlog\OS10_HTAPI.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\СП\SP_Lab05\lab10\OS10_HTAPI\OS10_HTAPI.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:03.61
