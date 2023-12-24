@@ -1,0 +1,26 @@
+﻿Сборка начата 21.12.2023 16:33:42.
+Уровень детализации журнала: Normal.     1>Проект "C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTCOM_LIB\OS15_HTCOM_LIB.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\OS15_HTCOM_LIB.tlog\OS15_HTCOM_LIB.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "x64\Debug\OS15_HTCOM_LIB.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\OS15_HTCOM_LIB.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yc"pch.h" /Fp"x64\Debug\OS15_HTCOM_LIB.pch" /Fo"x64\Debug\\" /Fd"C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTCOM_LIB.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yu"pch.h" /Fp"x64\Debug\OS15_HTCOM_LIB.pch" /Fo"x64\Debug\\" /Fd"C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTCOM_LIB.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt OS15_HTCOM_LIB.cpp
+         OS15_HTCOM_LIB.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\Lib.exe /OUT:"C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTCOM_LIB.lib" /NOLOGO /MACHINE:X64 x64\Debug\OS15_HTCOM_LIB.obj
+         x64\Debug\pch.obj
+         OS15_HTCOM_LIB.vcxproj -> C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTCOM_LIB.lib
+       FinalizeBuildStatus:
+         Файл "x64\Debug\OS15_HTCOM_LIB.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\OS15_HTCOM_LIB.tlog\OS15_HTCOM_LIB.lastbuildstate".
+     1>Сборка проекта "C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTCOM_LIB\OS15_HTCOM_LIB.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.90

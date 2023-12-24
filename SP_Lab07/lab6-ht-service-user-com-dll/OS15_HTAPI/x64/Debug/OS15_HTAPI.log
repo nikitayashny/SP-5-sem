@@ -1,0 +1,39 @@
+﻿Сборка начата 21.12.2023 16:33:39.
+Уровень детализации журнала: Normal.     1>Проект "C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\OS15_HTAPI.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "x64\Debug\OS15_HTAPI.tlog\OS15_HTAPI.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "x64\Debug\OS15_HTAPI.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\OS15_HTAPI.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yc"pch.h" /Fp"x64\Debug\OS15_HTAPI.pch" /Fo"x64\Debug\\" /Fd"C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTAPI.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Yu"pch.h" /Fp"x64\Debug\OS15_HTAPI.pch" /Fo"x64\Debug\\" /Fd"C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTAPI.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Auth.cpp Element.cpp HT.cpp
+         Auth.cpp
+     1>C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\Auth.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\Auth.cpp(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+         Element.cpp
+         HT.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\Lib.exe /OUT:"C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTAPI.lib" /NOLOGO /MACHINE:X64 x64\Debug\Auth.obj
+         x64\Debug\Element.obj
+         x64\Debug\HT.obj
+         x64\Debug\pch.obj
+         OS15_HTAPI.vcxproj -> C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\x64\Debug\OS15_HTAPI.lib
+       FinalizeBuildStatus:
+         Файл "x64\Debug\OS15_HTAPI.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\OS15_HTAPI.tlog\OS15_HTAPI.lastbuildstate".
+     1>Сборка проекта "C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\OS15_HTAPI.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\OS15_HTAPI.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\Auth.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+         C:\сп\SP_Lab07\lab6-ht-service-user-com-dll\OS15_HTAPI\Auth.cpp(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.15
