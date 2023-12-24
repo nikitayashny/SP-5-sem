@@ -1,0 +1,6 @@
+net localgroup HT /add
+net localgroup HT HTUser01 /add
+net localgroup HT HTUser02 /add
+
+net localgroup -- проверка групп
+net localgroup HT -- проверка пользователей
